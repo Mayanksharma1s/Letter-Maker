@@ -33,7 +33,7 @@ This project is:
 - ❌ NOT feature-complete  
 - ✅ A **practice and learning project**
 
-Code structure and logic may change as concepts are improved.
+
 
 ---
 
